@@ -12,4 +12,4 @@ The Store is on Gumorad.
 
 Campfire is our invite only Campfire Chat Server hosted on Digital Ocean.
 
-Powered by Basecamp <div height="50" width="50" ![](/basecamp.svg) </div>
+Powered by Basecamp ![](/basecamp.svg)
