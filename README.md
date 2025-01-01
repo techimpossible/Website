@@ -2,7 +2,7 @@
 
 This is our company website. HTML and CSS. Source code on **Github**, served through **Cloudflare Pages**. Zero cost!
 
-![](/og-image.png)
+![](/og-image.webp)
 
 **Roadmap**, **Privacy Policy** and **Terms of Use** are hosted on our **Basecamp**.
 
