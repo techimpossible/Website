@@ -8,6 +8,8 @@ This is our company website. HTML and CSS. Source code on **Github**, served thr
 
 **Cyber Notes** is on **Substack**.
 
+**Updates** is also on **Substack**.
+
 The **Store** is on **Gumroad**.
 
 **Campfire** is our invite only Campfire Chat Server hosted on **Digital Ocean**.
